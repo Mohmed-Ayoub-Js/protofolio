@@ -1,0 +1,30 @@
+export const skills=[
+    {
+        skill:'html',
+        value:100,
+    },
+    {
+        skill:'css',
+        value:95,
+    },
+    {
+        skill:'js',
+        value:98,
+    },
+    {
+        skill:'nodejs',
+        value:70,
+    },
+    {
+        skill:'React',
+        value:80,
+    },
+    {
+        skill:'expressjs',
+        value:60,
+    },
+    {
+        skill:'nextjs',
+        value:68,
+    },
+]
